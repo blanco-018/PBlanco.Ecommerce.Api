@@ -1,0 +1,7 @@
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.csproj.AssemblyReference.cache
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.AssemblyInfoInputs.cache
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.AssemblyInfo.cs
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.csproj.CoreCompileInputs.cache
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pblanco\Desktop\2DAW\front_end\PBlanco.Ecommerce.Api\PBlanco.Ecommerce.Api\obj\Debug\net5.0\PBlanco.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
